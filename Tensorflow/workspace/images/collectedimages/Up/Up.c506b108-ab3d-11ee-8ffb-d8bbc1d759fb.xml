@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Up</folder>
+	<filename>Up.c506b108-ab3d-11ee-8ffb-d8bbc1d759fb.jpg</filename>
+	<path>C:\Users\Matthew\Documents\Coding\Object Dectection Python\TFODCourse\Tensorflow\workspace\images\collectedimages\Up\Up.c506b108-ab3d-11ee-8ffb-d8bbc1d759fb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Up</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>204</ymin>
+			<xmax>96</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

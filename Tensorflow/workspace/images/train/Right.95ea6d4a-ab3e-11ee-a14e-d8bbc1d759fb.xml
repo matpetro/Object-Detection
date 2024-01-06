@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Right</folder>
+	<filename>Right.95ea6d4a-ab3e-11ee-a14e-d8bbc1d759fb.jpg</filename>
+	<path>C:\Users\Matthew\Documents\Coding\Object Dectection Python\TFODCourse\Tensorflow\workspace\images\collectedimages\Right\Right.95ea6d4a-ab3e-11ee-a14e-d8bbc1d759fb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>306</ymin>
+			<xmax>265</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>
